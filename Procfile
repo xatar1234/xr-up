@@ -1,1 +1,1 @@
-worker: node MrFOG.js
+worker: node Twana.js
