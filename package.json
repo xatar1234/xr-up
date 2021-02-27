@@ -7,7 +7,7 @@
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "node.js",
   "scripts": {
-    "start": "node mrfog.js"
+    "start": "node twana.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1",
